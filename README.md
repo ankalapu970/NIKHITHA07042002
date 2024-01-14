@@ -1,6 +1,6 @@
-#ED-TECH PLATFORM-PROJECT
+ED-TECH PLATFORM-PROJECT
 
-#Project Title: “ED-TECH PLATFORM” is a web app by using azure services.
+Project Title: “ED-TECH PLATFORM” is a web app by using azure services.
 1.	Project Demo URL: https://edtechplatform.z13.web.core.windows.net/
 2.	Demo Video URL: https://www.youtube.com/watch?v=t0srDtedIeg&t=2s
 3.	Github Repository URL:

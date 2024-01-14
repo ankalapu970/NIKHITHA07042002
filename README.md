@@ -11,7 +11,8 @@ Ramyasree :Content Collection
 
 # ED-TECH PLATFORM-PROJECT
 
-Project Title: “ED-TECH PLATFORM” is a web app by using azure services.
+# Project Title: “ED-TECH PLATFORM” 
+is a web app by using azure services.
 1.	Project Demo URL: https://edtechplatform.z13.web.core.windows.net/
 2.	Demo Video URL: https://www.youtube.com/watch?v=t0srDtedIeg&t=2s
 3.	Github Repository URL:
@@ -28,7 +29,8 @@ Project Title: “ED-TECH PLATFORM” is a web app by using azure services.
 Limited student participation and teacher adoption on our ed tech platform impede its effectiveness. Challenges in seamless integration with existing educational systems hinder widespread usage. Developing user-friendly interfaces, fostering teacher training programs, and refining integration processes are essential to overcome these barriers and optimize the platform's impact.
 # Project Description
   .The core idea of our  educational technology (edtech) website centers around using online platforms and digital tools to support and enhance the educational experience. Key elements and principles associated with "Mercury" websites include:
-# User-Friendly Interface: Designed a user-friendly interface that is intuitive and easy to navigate, ensuring that including students ,teachers, and administrators, can easily find and utilize resources.
+# User-Friendly Interface: 
+Designed a user-friendly interface that is intuitive and easy to navigate, ensuring that including students ,teachers, and administrators, can easily find and utilize resources.
 Interactivity and Engagement: Incorporate interactive elements, such as quizzes, simulations, and gamified learning activities, to engage users and make the learning experience more dynamic.
 Adaptive Learning: Implement adaptive learning technologies that personalize content based on individual user progress, providing a customized learning experience.
 Virtual Classrooms: Provide features for hosting live virtual classes, webinars, or interactive sessions, along with options for recording and archiving these sessions.

@@ -1,10 +1,13 @@
 #Microsoft-Future-Ready-Talent-Virtual-Internship-Project
+
 #Roles and Responsibilities of our team members:
+
 Nikhitha : Development and Deployment
 
 Prashanth :AI service
 
 Ramyasree :Content Collection
+
 
 #ED-TECH PLATFORM-PROJECT
 

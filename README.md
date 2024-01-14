@@ -4,9 +4,9 @@
 
 Nikhitha : Development and Deployment
 
-Prashanth :AI service
+ramyasree :AI service
 
-Ramyasree :Content Collection
+prashanth :Content Collection
 
 
 # ED-TECH PLATFORM-PROJECT

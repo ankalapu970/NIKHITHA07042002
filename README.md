@@ -15,8 +15,7 @@ Ramyasree :Content Collection
 is a web app by using azure services.
 1.	Project Demo URL: https://edtechplatform.z13.web.core.windows.net/
 2.	Demo Video URL: https://www.youtube.com/watch?v=t0srDtedIeg&t=2s
-3.	Github Repository URL:
-4.	 https://github.com/Preethikasarla-55/health-project.git
+3.	Github Repository URL:https://github.com/NIKHITHA07042002/NIKHITHA07042002?tab=readme-ov-file
 # Azure Services Used
 1.	Azure Storage Service
 2.	Azure Blob Service

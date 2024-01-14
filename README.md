@@ -1,4 +1,13 @@
-ED-TECH PLATFORM-PROJECT
+#Microsoft-Future-Ready-Talent-Virtual-Internship-Project
+#Roles and Responsibilities of our team members:
+Nikhitha : Development and Deployment
+
+Prashanth :AI service
+
+Ramyasree :Content Collection
+
+
+#ED-TECH PLATFORM-PROJECT
 
 Project Title: “ED-TECH PLATFORM” is a web app by using azure services.
 1.	Project Demo URL: https://edtechplatform.z13.web.core.windows.net/
@@ -65,15 +74,11 @@ Language service descriptions play a crucial role in providing a clear understan
 #Working Live Project Display
 Description Here I am attaching the final working website's screenshot for the reference.
 **![image](https://github.com/NIKHITHA07042002/NIKHITHA07042002/assets/150014709/1dd12c6a-ebd2-4551-8165-81126614a6d8)** 
- 
- 
- 
- 
-
-Resource Visualizer
- 
- 
-Final Project Statement
+**![image](https://github.com/NIKHITHA07042002/NIKHITHA07042002/assets/150014709/6a2b2e61-e503-492f-b87b-c3ffd451af05)**
+**![image](https://github.com/NIKHITHA07042002/NIKHITHA07042002/assets/150014709/fc16fb1c-b4b3-4637-ae23-4cac19b8dd11)**
+#Resource Visualizer
+**![image](https://github.com/NIKHITHA07042002/NIKHITHA07042002/assets/150014709/b3f5ef6a-9058-4094-8f7c-eeb83249db62)**
+#Final Project Statement
 Organ donate is dedicated to promoting awareness and education about organ donation, advocating for ethical organ procurement practices, and supporting individuals and families affected by organ transplantation. Our mission is to save lives and improve the quality of life for those in need of organ transplants through education, advocacy, and community engagement.
 As we finish, we reflect on the profound impact that this initiative has on individuals, families, and communities. Throughout our journey, we have delved into the critical importance of raising awareness, dispelling myths, and advocating for ethical organ procurement practices.
 

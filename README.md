@@ -60,8 +60,8 @@ Language service descriptions play a crucial role in providing a clear understan
 **![image](https://github.com/NIKHITHA07042002/NIKHITHA07042002/assets/150014709/0eb22119-b633-439e-8dd6-3b4c0cf3f3cd)**
  **![image](https://github.com/NIKHITHA07042002/NIKHITHA07042002/assets/150014709/2b50e864-c5d0-4193-ac1b-19654af5d1e4)**
  Azure Chat Bot: The Azure AI Language Chatbot is a cutting-edge conversational agent powered by Microsoft's Azure platform. Leveraging advanced natural language processing capabilities, it facilitates dynamic and context-aware interactions. This intelligent chatbot employs machine learning algorithms to comprehend user queries, providing personalized responses and assistance across diverse domains. Seamlessly integrating with Azure services, it ensures scalability and reliability.
-**![image](https://github.com/NIKHITHA07042002/NIKHITHA07042002/assets/150014709/283b9657-56c6-42bc-ac16-715b1fc6ff53)**
- **![image](https://github.com/NIKHITHA07042002/NIKHITHA07042002/assets/150014709/2aae3c4b-e58c-4baf-bf55-ad5b72f4d046)**
+ **![image](https://github.com/NIKHITHA07042002/NIKHITHA07042002/assets/150014709/03b1d02f-f109-4528-9947-240e22bf4552)**
+**![image](https://github.com/NIKHITHA07042002/NIKHITHA07042002/assets/150014709/49992931-9e60-445e-8f57-fd439fc18af4)**
 #Working Live Project Display
 Description Here I am attaching the final working website's screenshot for the reference.
 **![image](https://github.com/NIKHITHA07042002/NIKHITHA07042002/assets/150014709/1dd12c6a-ebd2-4551-8165-81126614a6d8)** 

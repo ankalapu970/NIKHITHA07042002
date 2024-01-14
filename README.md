@@ -1,4 +1,12 @@
-ED-TECH PLATFORM-PROJECT
+#Microsoft-Future-Ready-Talent-Virtual-Internship-Project
+#Roles and Responsibilities of our team members:
+Nikhitha : Development and Deployment
+
+Prashanth :AI service
+
+Ramyasree :Content Collection
+
+#ED-TECH PLATFORM-PROJECT
 
 Project Title: “ED-TECH PLATFORM” is a web app by using azure services.
 1.	Project Demo URL: https://edtechplatform.z13.web.core.windows.net/

@@ -82,13 +82,13 @@ Description Here I am attaching the final working website's screenshot for the r
  
 
 Resource Visualizer
+**![image](https://github.com/NIKHITHA07042002/NIKHITHA07042002/assets/150014709/8205b893-8304-43ec-b819-1ee710d1548f)**
  
  
-Final Project Statement
-Organ donate is dedicated to promoting awareness and education about organ donation, advocating for ethical organ procurement practices, and supporting individuals and families affected by organ transplantation. Our mission is to save lives and improve the quality of life for those in need of organ transplants through education, advocacy, and community engagement.
-As we finish, we reflect on the profound impact that this initiative has on individuals, families, and communities. Throughout our journey, we have delved into the critical importance of raising awareness, dispelling myths, and advocating for ethical organ procurement practices.
+Final Project Statement:
+"In conclusion, Ed Tech Platform has proven to be a transformative force in the realm of education, seamlessly integrating technology to enhance learning experiences. Its user-friendly interface, robust features, and adaptive learning tools have empowered both educators and students alike.
 
-Organ Donation App using Azure AI Service.
+
 
 
 
